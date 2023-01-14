@@ -1,0 +1,17 @@
+https://mediafilez.forgecdn.net/files/3901/972/sophisticatedcore-1.19-0.4.10.87.jar
+https://mediafilez.forgecdn.net/files/3903/449/sophisticatedbackpacks-1.19-3.18.9.661.jar
+
+https://mediafilez.forgecdn.net/files/3926/815/constructionwand-1.19.1-2.8.jar
+
+https://mediafilez.forgecdn.net/files/3830/951/Craftable+Horse+Armour++Saddle-1.19-1.9.jar
+
+https://mediafilez.forgecdn.net/files/3904/938/Mekanism-1.19.1-10.3.1.468.jar
+https://mediafilez.forgecdn.net/files/3904/940/MekanismGenerators-1.19.1-10.3.1.468.jar
+https://mediafilez.forgecdn.net/files/3904/941/MekanismTools-1.19.1-10.3.1.468.jar
+https://mediafilez.forgecdn.net/files/3904/942/MekanismAdditions-1.19.1-10.3.1.468.jar
+
+https://mediafilez.forgecdn.net/files/3881/910/biomemakeover-FABRIC-1.19-1.5.9.jar
+https://mediafilez.forgecdn.net/files/4147/250/architectury-5.13.60-forge.jar
+https://mediafilez.forgecdn.net/files/3891/323/fabric-api-0.58.0%2B1.19.jar
+
+https://mediafilez.forgecdn.net/files/3903/68/jei-1.19-forge-11.1.1.239.jar
